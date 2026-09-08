@@ -26,7 +26,12 @@
    <a href="https://www.linkedin.com/in/dionysis-kalepanagos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a> 
 </div> 
 
-![Snake animation](https://github.com/daino92/daino92/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daino92/daino92/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daino92/daino92/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation eating my GitHub contribution graph" src="https://raw.githubusercontent.com/daino92/daino92/output/github-contribution-grid-snake.svg">
+</picture>
+
 <!--
 **daino92/daino92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
