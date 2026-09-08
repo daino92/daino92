@@ -1,0 +1,22 @@
+README.md
+  s_d29c08f5f017da::t_d5ee86dfc3336a 45-47
+  s_d29c08f5f017da::t_bce2c05ade36ac 31,37-41
+  s_d29c08f5f017da::t_696b3151ed2151 50
+  s_d29c08f5f017da::t_652f9f28e7164f 54
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "750423b04433d87105c3a4f280cc2909bb45e6ea",
+  "prompts": {},
+  "sessions": {
+    "s_d29c08f5f017da": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "8c40f219-2927-4c49-b990-e5b4b05f20a3",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "Dionysis <daino92@gmail.com>"
+    }
+  }
+}
