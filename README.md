@@ -28,21 +28,30 @@ I build web applications with JavaScript, TypeScript, React, Node.js, and PHP.
 
 <br>
 
-### Backend and Workflow
+### Backend and Deployment
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
 <img align="left" alt="Groovy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg">
 <img align="left" alt="Vercel" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg">
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-<img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/7078081b8a334c0d69b20dabab78c526899a471d/png/default_dark.png">
 
 <br>
 
+### Tools
+
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+<img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/7078081b8a334c0d69b20dabab78c526899a471d/png/default_dark.png">
+<img align="left" alt="Cursor" width="26px" src="https://www.cursor.com/favicon.ico">
+<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+<img align="left" alt="Kubernetes" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
+
+<br>
+<div style="clear: both;"></div>
+
 ### Practices
 
-Responsive Web Design · Version Control 
+Responsive Web Design · Version Control · Git Flow · Agile Development · Waterfall Development
 
 ## Connect With Me
 
