@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=daino92&show_icons=true&theme=onedark" width="400">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daino92&hide=visual basic&layout=compact" width="335">
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=daino92&amp;show_icons=true&amp;theme=onedark" width="400">
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=daino92&amp;hide=visual%20basic&amp;layout=compact" width="335">
 </div>
 <br/>
 
@@ -16,7 +16,7 @@
 <img align="left" height="26px" width="26px" src="https://cdn-icons-png.flaticon.com/512/760/760457.png" alt="react" />
 <img align="left" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"  alt="Git"/>
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" height="26px" width="26px" src="https://github.com/dhanishgajjar/vscode-icons/blob/7078081b8a334c0d69b20dabab78c526899a471d/png/default_dark.png" alt="VS Code"/>
+<img align="left" height="26px" width="26px" src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/7078081b8a334c0d69b20dabab78c526899a471d/png/default_dark.png" alt="VS Code"/>
 
 <br/>
 
