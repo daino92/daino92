@@ -1,5 +1,4 @@
 ### Hi there 👋
-<div>
 Hi, I'm Dionysis Kalepanagos
 
 ### Software Engineer
@@ -25,17 +24,25 @@ I build web applications with JavaScript, TypeScript, React, Node.js, and PHP.
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
 <img align="left" alt="React" width="26px" src="https://cdn-icons-png.flaticon.com/512/760/760457.png">
+<img align="left" alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
 
 <br>
 
 ### Backend and Workflow
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
+<img align="left" alt="Groovy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg">
+<img align="left" alt="Vercel" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg">
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 <img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/7078081b8a334c0d69b20dabab78c526899a471d/png/default_dark.png">
 
 <br>
+
+### Practices
+
+Responsive Web Design · Version Control 
 
 ## Connect With Me
 
