@@ -1,9 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 Hi, I'm Dionysis Kalepanagos
 
-### Software Engineer
+## About Me
 
-I build web applications with JavaScript, TypeScript, React, Node.js, and PHP.
+Hi, I’m Dionysis — a software engineer who enjoys building useful things for the web.
+
+I primarily work within the JavaScript ecosystem, using technologies such as TypeScript, React, Node.js, and Next.js. I also have experience working with PHP. I care about creating clean, accessible, and responsive applications while continually improving the way I solve problems.
+
+When I’m not coding, you’ll find me at the gym 🏋️ working toward my next goal, or trying a new beer at my local pub 🍺.
 
 ## 📊 GitHub Stats
 
