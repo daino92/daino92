@@ -23,18 +23,32 @@ When I’m not coding, you’ll find me at the gym 🏋️ working toward my nex
 
 ### Core Stack
 
-`React` · `TypeScript` · `Next.js` · `Node.js`
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+<img align="left" alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<img align="left" alt="Strapi" width="26px" src="https://cdn.simpleicons.org/strapi">
+
+<br>
+<div style="clear: both;"></div>
 
 ### Frontend
 
 <img align="left" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 <img align="left" alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+
+<br>
+
+### CSS Frameworks
+
+<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+<img align="left" alt="Tailwind CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
+<img align="left" alt="Material UI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
 
 <br>
 
@@ -54,7 +68,16 @@ When I’m not coding, you’ll find me at the gym 🏋️ working toward my nex
 <img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 <img align="left" alt="Cursor" width="26px" src="https://www.cursor.com/favicon.ico">
 <img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-<img align="left" alt="Kubernetes" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
+<img align="left" alt="Insomnia" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg">
+
+<br>
+<div style="clear: both;"></div>
+
+### CMS & Platforms
+
+<img align="left" alt="WordPress" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
+<img align="left" alt="Strapi" width="26px" src="https://cdn.simpleicons.org/strapi">
+<img align="left" alt="Contentful" width="22px" src="https://www.datocms-assets.com/75941/1709213629-contentful-icon-454x512-8ffc9x65.png">
 
 <br>
 <div style="clear: both;"></div>
@@ -76,7 +99,7 @@ An interactive Iceland trip planner for discovering places, building itineraries
 
 `React` `TypeScript` `Vite` `Leaflet`
 
-[View on GitHub](https://github.com/daino92/iceland-atlas)
+[Live Demo](https://daino92.github.io/iceland-atlas/) · [View on GitHub](https://github.com/daino92/iceland-atlas)
 
 ## 🐍 GitHub Activity
 
