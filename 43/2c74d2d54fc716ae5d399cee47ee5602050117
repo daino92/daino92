@@ -1,0 +1,30 @@
+README.md
+  s_61d9b4c96be1fd::t_bf646a99a7b084 26-29,31-33,53,73-74
+  s_61d9b4c96be1fd::t_45dc4d579c12ac 80
+  s_61d9b4c96be1fd::t_68f320a6f99dfe 50-51
+  s_61d9b4c96be1fd::t_1872762ced4c0e 71
+  s_61d9b4c96be1fd::t_06f048c9516c05 76-78
+  s_61d9b4c96be1fd::t_37bfe900ee9f5d 79
+  s_61d9b4c96be1fd::t_0065be6874de7f 30
+  s_61d9b4c96be1fd::t_2b7a02da168d2b 46-49,102
+  s_61d9b4c96be1fd::t_aeb29973f40e8a 52
+  s_61d9b4c96be1fd::t_970c7e14dd1681 54
+  s_61d9b4c96be1fd::t_58453dc715a6a9 72
+  s_61d9b4c96be1fd::t_15ce7bf59d597e 75
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "432c74d2d54fc716ae5d399cee47ee5602050117",
+  "prompts": {},
+  "sessions": {
+    "s_61d9b4c96be1fd": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a08466-d290-7f40-9599-9401b9b97446",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "Dionysis <daino92@gmail.com>"
+    }
+  }
+}
