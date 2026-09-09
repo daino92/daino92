@@ -64,6 +64,16 @@ Responsive Web Design · Version Control · Git Flow · Agile Development · Wat
 <a href="mailto:daino92@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Dionysis"></a>
 <a href="https://www.linkedin.com/in/dionysis-kalepanagos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Dionysis on LinkedIn"></a>
 
+## Featured Projects
+
+### 🗺️ Iceland Atlas
+
+An interactive Iceland trip planner for discovering places, building itineraries, and planning routes with weather, road conditions, budgets, and bilingual support.
+
+`React` `TypeScript` `Vite` `Leaflet`
+
+[View on GitHub](https://github.com/daino92/iceland-atlas)
+
 ## 🐍 GitHub Activity
 
 <picture>
