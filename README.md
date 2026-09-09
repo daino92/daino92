@@ -19,7 +19,11 @@ When I’m not coding, you’ll find me at the gym 🏋️ working toward my nex
   <img src="https://streak-stats.demolab.com?user=daino92&amp;theme=onedark" width="400" alt="GitHub contribution streak">
 </div>
 
-## Skills and Tools
+## Technologies I Work With
+
+### Core Stack
+
+`React` · `TypeScript` · `Next.js` · `Node.js`
 
 ### Frontend
 
