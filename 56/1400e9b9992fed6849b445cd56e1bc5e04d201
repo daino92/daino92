@@ -1,0 +1,22 @@
+README.md
+  s_61d9b4c96be1fd::t_d196a4c72b6ea8 26
+  s_61d9b4c96be1fd::t_3c0f788f1542bc 22
+  s_61d9b4c96be1fd::t_eafc7b93733b2b 24-25
+  s_61d9b4c96be1fd::t_0a7fa955474bc1 23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "561400e9b9992fed6849b445cd56e1bc5e04d201",
+  "prompts": {},
+  "sessions": {
+    "s_61d9b4c96be1fd": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a08466-d290-7f40-9599-9401b9b97446",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "Dionysis <daino92@gmail.com>"
+    }
+  }
+}
