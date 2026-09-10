@@ -97,9 +97,21 @@ Responsive Web Design · Version Control · Git Flow · Agile Development · Wat
 
 An interactive Iceland trip planner for discovering places, building itineraries, and planning routes with weather, road conditions, budgets, and bilingual support.
 
-`React` `TypeScript` `Vite` `Leaflet`
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 
-[Live Demo](https://daino92.github.io/iceland-atlas/) · [View on GitHub](https://github.com/daino92/iceland-atlas)
+![Iceland Atlas demo: filtering waterfalls, searching for Skógafoss, and opening its place details](https://raw.githubusercontent.com/daino92/iceland-atlas/develop/assets/iceland-atlas-demo.gif)
+
+**Key features:**
+
+- Interactive map with search, filters, clustering, and points of interest
+- Trip builder with draggable stops, route planning, and feasibility scoring
+- Weather, road-condition, daylight, aurora, budget, and offline PWA features
+- Greek and English interface with shareable trip URLs and JSON/CSV export
+
+[View on GitHub](https://github.com/daino92/iceland-atlas)
 
 ## 🐍 GitHub Activity
 
