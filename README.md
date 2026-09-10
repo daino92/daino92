@@ -86,6 +86,17 @@ When I’m not coding, you’ll find me at the gym 🏋️ working toward my nex
 
 Responsive Web Design · Version Control · Git Flow · Agile Development · Waterfall Development
 
+### ⚙️ Engineering Focus
+
+API Integration · Accessibility
+
+## 📚 Currently Learning
+
+- Advanced TypeScript and React patterns
+- Automated testing for web applications
+- Performance optimization
+- AI-assisted development workflows
+
 ## 🤝 Connect With Me
 
 <a href="mailto:daino92@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Dionysis"></a>
@@ -112,6 +123,26 @@ An interactive Iceland trip planner for discovering places, building itineraries
 - Greek and English interface with shareable trip URLs and JSON/CSV export
 
 [View on GitHub](https://github.com/daino92/iceland-atlas)
+
+### 🌦️ Forecast
+
+A weather application that shows current conditions, forecast details, humidity, wind speed, and the following days using the OpenWeatherMap API.
+
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-EB6E4B?style=flat-square&logo=opencollective&logoColor=white)
+
+![Forecast preview](https://raw.githubusercontent.com/daino92/Forecast/develop/docs/forecast-preview.gif)
+
+[View on GitHub](https://github.com/daino92/Forecast)
+
+### 🔌 Json2Rest
+
+A lightweight WordPress plugin that turns named JSON data into a configurable REST API endpoint for frontend applications and other clients.
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
+[View on GitHub](https://github.com/daino92/Json2Rest)
 
 ## 🐍 GitHub Activity
 
